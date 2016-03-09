@@ -1,0 +1,69 @@
+@font-face {
+    font-family: 'tca_icon';
+    src:    url('fonts/tca_icon.eot?6fuh2e');
+    src:    url('fonts/tca_icon.eot?6fuh2e#iefix') format('embedded-opentype'),
+        url('fonts/tca_icon.ttf?6fuh2e') format('truetype'),
+        url('fonts/tca_icon.woff?6fuh2e') format('woff'),
+        url('fonts/tca_icon.svg?6fuh2e#tca_icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="tca-icon-"], [class*=" tca-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'tca_icon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    
+    /* Enable Ligatures ================ */
+    letter-spacing: 0;
+    -webkit-font-feature-settings: "liga";
+    -moz-font-feature-settings: "liga=1";
+    -moz-font-feature-settings: "liga";
+    -ms-font-feature-settings: "liga" 1;
+    -o-font-feature-settings: "liga";
+    font-feature-settings: "liga";
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.tca-icon-check:before {
+    content: "\f00c";
+}
+.tca-icon-download:before {
+    content: "\f019";
+}
+.tca-icon-edit:before {
+    content: "\f040";
+}
+.tca-icon-arrow-right:before {
+    content: "\f061";
+}
+.tca-icon-arrow-up:before {
+    content: "\f062";
+}
+.tca-icon-arrow-down:before {
+    content: "\f063";
+}
+.tca-icon-expand:before {
+    content: "\f065";
+}
+.tca-icon-cart:before {
+    content: "\f07a";
+}
+.tca-icon-info:before {
+    content: "\f129";
+}
+.tca-icon-share:before {
+    content: "\f1e0";
+}
+.tca-icon-trash:before {
+    content: "\f1f8";
+}
+
