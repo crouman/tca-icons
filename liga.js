@@ -34,6 +34,9 @@
             'expand': '&#xf065;',
             'cart': '&#xf07a;',
             'info': '&#xf129;',
+            'share': '&#xf1e0;',
+            'trash': '&#xf1f8;',
+            'chart': '&#xe900;',
           '0': 0
         };
         delete icons['0'];
