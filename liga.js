@@ -45,6 +45,7 @@
             'file-zip': '&#xe907;',
             'mail': '&#xe908;',
             'ellipsis-h': '&#xe909;',
+            'leaf': '&#xe90a;',
           '0': 0
         };
         delete icons['0'];
