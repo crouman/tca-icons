@@ -32,8 +32,20 @@
             'arrow-up': '&#xf062;',
             'arrow-down': '&#xf063;',
             'expand': '&#xf065;',
+            'collapse': '&#xe902;',
             'cart': '&#xf07a;',
             'info': '&#xf129;',
+            'share': '&#xf1e0;',
+            'trash': '&#xf1f8;',
+            'chart': '&#xe900;',
+            'headset': '&#xe901;',
+            'file-pdf': '&#xe904;',
+            'file-xls': '&#xe905;',
+            'file': '&#xe906;',
+            'file-zip': '&#xe907;',
+            'mail': '&#xe908;',
+            'ellipsis-h': '&#xe909;',
+            'leaf': '&#xe90a;',
           '0': 0
         };
         delete icons['0'];
