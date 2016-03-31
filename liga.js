@@ -37,7 +37,6 @@
             'info': '&#xf129;',
             'share': '&#xf1e0;',
             'trash': '&#xf1f8;',
-            'chart': '&#xe900;',
             'headset': '&#xe901;',
             'file-pdf': '&#xe904;',
             'file-xls': '&#xe905;',
