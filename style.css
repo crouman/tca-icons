@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'tca_icon';
-    src:    url('fonts/tca_icon.eot?raco0z');
-    src:    url('fonts/tca_icon.eot?raco0z#iefix') format('embedded-opentype'),
-        url('fonts/tca_icon.ttf?raco0z') format('truetype'),
-        url('fonts/tca_icon.woff?raco0z') format('woff'),
-        url('fonts/tca_icon.svg?raco0z#tca_icon') format('svg');
+    src:    url('fonts/tca_icon.eot?nr5tvy');
+    src:    url('fonts/tca_icon.eot?nr5tvy#iefix') format('embedded-opentype'),
+        url('fonts/tca_icon.ttf?nr5tvy') format('truetype'),
+        url('fonts/tca_icon.woff?nr5tvy') format('woff'),
+        url('fonts/tca_icon.svg?nr5tvy#tca_icon') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -119,5 +119,8 @@
 }
 .tca-icon-move-right-all:before {
     content: "\e911";
+}
+.tca-icon-options:before {
+    content: "\e912";
 }
 

@@ -45,6 +45,12 @@
             'mail': '&#xe908;',
             'ellipsis-h': '&#xe909;',
             'leaf': '&#xe90a;',
+            'sort-alpha-desc': '&#xe90d;',
+            'move-left': '&#xe90e;',
+            'move-right': '&#xe90f;',
+            'move-left-all': '&#xe910;',
+            'move-right-all': '&#xe911;',
+            'options': '&#xe912;',
           '0': 0
         };
         delete icons['0'];
